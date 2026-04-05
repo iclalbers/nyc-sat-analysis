@@ -34,3 +34,6 @@ The program prints:
 - best math schools
 - top 10 SAT schools
 - borough with highest SAT score standard deviation
+
+Note
+This project was completed as part of a data science learning exercise using a provided dataset and project instructions.
